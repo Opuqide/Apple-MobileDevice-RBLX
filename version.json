@@ -1,0 +1,13 @@
+{
+    "CurrentVersion":"1.1",
+    "updates":{
+        "1.0":{
+            "MinimumVersion":"1.0",
+            "ReleaseNotes":"Initial introduction of MobileDevice."
+        },
+        "1.1":{
+            "MinimumVersion":"1.0",
+            "ReleaseNotes":"Test fixes to MobileDevice, introduce MobileDeviceUpdater."
+        }
+    }
+}
